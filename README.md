@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Compiler in C++](https://github.com/Ahmad-Mukhtar/Compiler)
 
-- 🤝 I’m looking for help with **Open Source Projects**
+- 🤝 I’m looking for help in **Open Source Projects**
 
 - 💬 Ask me about **React,Java Spring,Javafx,Python Django**
 
