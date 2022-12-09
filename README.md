@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad-mukhtar" alt="ahmad-mukhtar" /></a> </p>
 
-- 🔭 I’m currently working on [Compiler in C++](https://github.com/Ahmad-Mukhtar/Compiler)
+[//]: <> - 🔭 I’m currently working on [Compiler in C++](https://github.com/Ahmad-Mukhtar/Compiler)
 
 - 🤝 I’m looking for help in **Open Source Projects**
 
-- 💬 Ask me about **React,Java Spring,Javafx,Python Django**
+- 💬 Ask me about **React,Java Spring,Javafx,Python Django,C#**
 
 - 📫 How to reach me **ahmedmukhtarchattah@gmail.com**
 
