@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help in **Open Source Projects**
 
-- 💬 Ask me about **Java Spring,Javafx,Python,C#**
+- 💬 Ask me about **Java Spring,Javafx,Python,Django,Unity**
 
 - 📫 How to reach me **ahmedmukhtarchattah@gmail.com**
 
