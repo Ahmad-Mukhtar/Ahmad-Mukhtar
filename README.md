@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmad Mukhtar</h1>
-<h3 align="center">A  Software Developer</h3>
+<h3 align="center">A  Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-mukhtar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-mukhtar" /> </p>
 
 
- <!--  - 🔭 I’m currently working on [Compiler in C++](https://github.com/Ahmad-Mukhtar/Compiler)--> 
 
 - 🤝 I’m looking for help in **Open Source Projects**
 
-- 💬 Ask me about **Java Spring,Javafx,Python,Django,My SQL,DataBases,Unity**
+- 💬 Ask me about **Java,Spring Boot, Python, MySQL, Databases,GoLang**
 
 - 📫 How to reach me **ahmedmukhtarchattah@gmail.com**
 
